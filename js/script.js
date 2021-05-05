@@ -1,4 +1,4 @@
-const txtElement = ['junedesign', 'Desain yasiin', 'Desain Logo'];
+const txtElement = ['My Portfolio', 'Ardi Junaedin', 'Junedesign'];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = '';
